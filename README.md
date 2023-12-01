@@ -52,7 +52,13 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Beomtae&show_icons=true">
 
 <br>
+<br>
+<br>
 <p align=center>🏆 Baekjoon solved rank 🏆</p>
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=region9)](https://solved.ac/region9)</div>
 <br>
+
+<div align=center>
+	
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F%2508Beomtae%2Fhit-counter&count_bg=%237EE530&title_bg=%235C5757&title=welcome+%F0%9F%98%8A&edge_flat=false)](https://hits.seeyoufarm.com) </div>
