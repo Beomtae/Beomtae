@@ -48,15 +48,15 @@
 
 <div align=center>
 	<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beomtae&layout=compact">
-<img src="https://github-readme-stats.vercel.app/api?username=Beomtae&show_icons=true">
+![Beomtae's github stats](https://github-readme-stats.vercel.app/api?username=Beomtae&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Beomtae&layout=compact&theme=tokyonight)
+	
+<br>
+<br>
+<br>
+<!-- <p align=center>🏆 Baekjoon solved rank 🏆</p>
 
-<br>
-<br>
-<br>
-<p align=center>🏆 Baekjoon solved rank 🏆</p>
-
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=region9)](https://solved.ac/region9)</div>
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=region9)](https://solved.ac/region9)</div> -->
 <br>
 
 <div align=center>
