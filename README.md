@@ -48,8 +48,10 @@
 
 <div align=center>
 	<br>
-![Beomtae's github stats](https://github-readme-stats.vercel.app/api?username=Beomtae&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Beomtae&layout=compact&theme=tokyonight)
+
+![Beomtae's github stats](https://github-readme-stats.vercel.app/api?username=Beomtae&show_icons=true&theme=tokyonight&v=1)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Beomtae&layout=compact&theme=tokyonight&v=1)
+
 	
 <br>
 <br>
